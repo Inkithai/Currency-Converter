@@ -6,6 +6,7 @@ This project is a user-friendly currency converter and transfer management syste
 ## Frontend Hosting
 This is the frontend hosting link:
 https://currencyfrontend-q2qu8jin8-inkis-projects.vercel.app
+
 https://currencyfrontend.vercel.app/
 
 ## Backend Hosting
