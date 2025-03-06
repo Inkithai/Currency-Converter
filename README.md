@@ -3,6 +3,8 @@
 ## Overview
 This project is a user-friendly currency converter and transfer management system. It enables users to convert currency between selected countries, create transfer records, and manage transaction history. Authentication is required to perform transfers and access past transactions.
 
+## Application Screenshots:   https://drive.google.com/drive/folders/167MUTT1Bcf3THqqLNtUy8uTb8Cnc-9Er?usp=sharing
+
 ## Frontend Hosting
 This is the frontend hosting link:
 https://currencyfrontend-q2qu8jin8-inkis-projects.vercel.app
