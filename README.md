@@ -1,13 +1,14 @@
 # Currency Converter and Transfer Management Application
-https://frontend-9elarl3r0-inkis-projects.vercel.app/
 
 ## Overview
 This project is a user-friendly currency converter and transfer management system. It enables users to convert currency between selected countries, create transfer records, and manage transaction history. Authentication is required to perform transfers and access past transactions.
 
 ## Frontend Hosting
 This is the frontend hosting link:
+https://frontend-9elarl3r0-inkis-projects.vercel.app/
 
-
+## Backend Hosting
+Backend hosting will be set up soon.
 
 ## Technologies Used
 - **Frontend:** React.js, Tailwind CSS  
